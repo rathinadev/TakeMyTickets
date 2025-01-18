@@ -1,0 +1,25 @@
+# Environment files
+credentials.env
+
+# Logs
+logs/
+*.log
+
+# Backup files
+*.sql
+*.sql.gz
+backups/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
